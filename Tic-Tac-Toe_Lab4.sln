@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic-Tac-Toe_Lab4", "Tic-Tac-Toe_Lab4\Tic-Tac-Toe_Lab4.csproj", "{5F2E859B-EC02-47CD-8F70-24EA39B16545}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic-Tac-Toe-Testing", "Tic-Tac-Toe-Testing\Tic-Tac-Toe-Testing.csproj", "{F1781291-0800-4F4F-9009-F8544614C45D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5F2E859B-EC02-47CD-8F70-24EA39B16545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F2E859B-EC02-47CD-8F70-24EA39B16545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F2E859B-EC02-47CD-8F70-24EA39B16545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1781291-0800-4F4F-9009-F8544614C45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1781291-0800-4F4F-9009-F8544614C45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1781291-0800-4F4F-9009-F8544614C45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1781291-0800-4F4F-9009-F8544614C45D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
